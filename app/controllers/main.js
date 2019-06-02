@@ -6,7 +6,9 @@ $(document).ready(function() {
 
   function taoBranchTest(){}
 
-  function timkiem(){}
+  function timkiem(){
+    console.log(Ads);
+  }
 
   function layDanhSachNguoiDung() {
     danhSachNguoiDung
