@@ -2,6 +2,7 @@ $(document).ready(function() {
   var danhSachNguoiDung = new DanhSachNguoiDung();
 
   layDanhSachNguoiDung();
+  function test(){}
 
   function layDanhSachNguoiDung() {
     danhSachNguoiDung
